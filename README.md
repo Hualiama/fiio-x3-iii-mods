@@ -45,8 +45,6 @@ a random album's track list; Artist → Random opens a random artist's albums �
 ## Repo layout
 
 ```
-firmware/
-  X3_Mark_Ⅲ.fw                         patched firmware, ready to flash
 docs/
   firmware-teardown-and-scrobbler.md   project log, firmware format, scrobbler design, feature status
   reverse-engineering-reference.md     addresses, GOT slots, toolchain gotchas, patch/repack procedure
