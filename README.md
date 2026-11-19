@@ -7,7 +7,7 @@ by reflashing stock FW1.2.4.
 
 > ⚠️ Flashing modified firmware is at your own risk. All of it has been tested on one device.
 
-**The ready-to-flash patched firmware is included:** [`https://github.com/Hualiama/fiio-x3-iii-mods/releases/tag/firmware`](firmware/) — make sure to rename it to "X3_Mark_Ⅲ.fw" |
+**The ready-to-flash patched firmware is included:** https://github.com/Hualiama/fiio-x3-iii-mods/releases/tag/firmware — make sure to rename it to "X3_Mark_Ⅲ.fw" |
 FW1.2.4 + SD hook + scroll v2 + Date & time + Random rows (rootfs md5 `c162f5afa0d45477a2201de2db21c664`).
 Copy it to the SD card root and flash it from the update menu; no need to build anything yourself.
 
